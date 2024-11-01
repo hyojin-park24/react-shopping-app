@@ -26,10 +26,8 @@ React-Redux 를 배운 기술로 사용자에게 선택한 카테고리와 현�
 TypeScript, React, Redux   
 
 ## ⚙️ Setup & Usage   
-'''   
-# Install React Packages   
+'''# Install React Packages   
 npm install   
 
-# Run Frontend Server   
+'''# Run Frontend Server   
 npm start    
-'''
